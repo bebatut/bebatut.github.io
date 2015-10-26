@@ -45,7 +45,11 @@
 						<ul class="list-inline intro-social-buttons">
 							{% for site in site.sites %}
 							<li>
-								<a href="{{ site.url }}" class="btn btn-default btn-lg"><i class="{{ site.type }}"></i> <span class="network-name">{{ site.title }}</span></a>
+								<a href="{{ site.url }}" class="btn btn-default btn-lg">
+                                    <span class="subsite-img"><img src="assets/img/{{ site.type }}.svg"></span>
+                                    </br>
+                                    <span class="subsite-name">{{ site.title }}</span>
+                                </a>
 							</li>
 							{% endfor %}
 						</ul>
