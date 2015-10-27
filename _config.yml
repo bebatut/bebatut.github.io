@@ -22,13 +22,17 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
+  - title: Twitter
+    type: twitter
     url: https://twitter.com/bebatut
-  - title: github
+  - title: Github
+    type: github
     url: https://github.com/bebatut
-  - title: linkedin
+  - title: Linkedin
+    type: linkedin
     url: https:/fr.linkedin.com/in/berenicebatut
-  - title: flickr
+  - title: Flickr
+    type: flickr
     url: https://www.flickr.com/photos/134305289@N03
 
 sites:
