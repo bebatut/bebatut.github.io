@@ -39,12 +39,6 @@ sites:
   - title: Research
     type: research
     url: https://research.bebatut.fr
-  - title: Blog
-    type: blog
-    url: https://blog.bebatut.fr
-  - title: DIY
-    type: diy
-    url:
   - title: Photos
     type: photos
     url: https://www.flickr.com/photos/134305289@N03
