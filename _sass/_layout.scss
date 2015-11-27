@@ -195,6 +195,7 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+    text-align: left;
 }
 
 .post-title {
@@ -205,6 +206,8 @@
     @include media-query($on-laptop) {
         font-size: 36px;
     }
+
+    text-align: left;
 }
 
 .post-content {
