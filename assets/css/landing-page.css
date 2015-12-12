@@ -110,10 +110,9 @@ h6 {
 }
 
 .banner {
-    padding: 100px 0;
+    padding: 20px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
-    background-size: cover;
+    background-color: #1D0E0B;
 }
 
 .banner h2 {
@@ -139,13 +138,12 @@ h6 {
 }
 
 .banner-social-buttons {
-    margin-top: 10px;
+    margin-top: 0px;
 }
 
 @media(max-width:1199px) {
     ul.banner-social-buttons {
         float: left;
-        margin-top: 15px;
     }
 }
 
@@ -168,7 +166,7 @@ h6 {
 }
 
 footer {
-    padding: 50px 0;
+    padding: 20px 0;
     background-color: #f8f8f8;
 }
 
