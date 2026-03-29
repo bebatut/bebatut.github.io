@@ -9,19 +9,19 @@ menus:
   - href: "#hire-me"
     text: Hire me
 pictures:
-  - - src: https://live.staticflickr.com/65535/55169685354_ebabc3d8ec_c.jpg
-    - src: https://live.staticflickr.com/65535/54875355509_257e38977d_c.jpg
-    - src: https://live.staticflickr.com/65535/54875112366_f27fbdcaa4_c.jpg
-  - - src: https://live.staticflickr.com/65535/53888574602_b29706e008_c.jpg
-    - src: https://live.staticflickr.com/65535/48387089072_625c7e2434_c.jpg
-    - src: https://live.staticflickr.com/65535/49982030217_8094630b80_c.jpg
-  - - src: https://live.staticflickr.com/1759/40708342840_c064fe495b_c.jpg
-    - src: https://live.staticflickr.com/65535/54944848563_553f00ddf6_c.jpg
-    - src: https://live.staticflickr.com/65535/55169248107_9f13852c81_c.jpg
-    - src: /images/45149750124_fae6059ad3_k.jpg
-  - - src: https://live.staticflickr.com/65535/55171913794_95aef7fee3_c.jpg
-    - src: https://live.staticflickr.com/65535/55170788422_bce6ec29a9_c.jpg
-    - src: https://live.staticflickr.com/65535/54944964725_7750568c26_c.jpg
+  - - src: /images/1.webp
+    - src: /images/2.webp
+    - src: /images/3.webp
+  - - src: /images/4.webp
+    - src: /images/5.webp
+    - src: /images/6.webp
+  - - src: /images/7.webp
+    - src: /images/8.webp
+    - src: /images/9.webp
+    - src: /images/10.webp
+  - - src: /images/11.webp
+    - src: /images/12.webp
+    - src: /images/13.webp
 ---
 
 I blend art and advocacy, using photography to amplify the **voices and
