@@ -1,7 +1,11 @@
 <footer class="md:w-2/3 md:mx-auto md:px-8">
 	Bérénice Batut
 	&middot;
-	<a href="tel:{{ site.phone_number | replace: ' ', '' }}">{% include tel.svg %} {{ site.phone_number }}</a>
+	<span>
+		{% include tel.svg %} <a href="tel:{{ site.phone_number | replace: ' ', '' }}">{{ site.phone_number }}</a>
+	</span>
 	&middot;
-	<a href="mailto:{{ site.email }}">{% include email.svg %} {{ site.email }}</a>
+	<span>
+		{% include email.svg %} <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+	</span>
 </footer>

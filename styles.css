@@ -83,6 +83,10 @@ footer {
   margin-top: 2em;
   padding: 1em;
   text-align: center;
+
+  span {
+    display: inline-block;
+  }
 }
 
 a {
