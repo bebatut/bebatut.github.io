@@ -1,0 +1,37 @@
+<!doctype html>
+<html class="scroll-smooth" lang="{{ lang }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+    <title>{{ page.title }} - {{ page.subtitle }}</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Marck+Script&display=swap"
+      rel="stylesheet"
+    />
+    <link href="/styles.css" rel="stylesheet" />
+  </head>
+  <body class="bg-color-faf9f6">
+    <div class="flex flex-col h-screen p-4">
+      {% include header.html %}
+
+      <main class="md:w-2/3 mx-auto">{{ content }}</main>
+
+      {% include footer.html %}
+    </div>
+    <svg width="0" height="0">
+      <defs>
+        <clipPath id="clip-shape" clipPathUnits="objectBoundingBox">
+          <path
+            fill="black"
+            stroke="none"
+            d="M 0,0.5 C 0,0 0,0 0.5,0 S 1,0 1,0.5 1,1 0.5,1 0,1 0,0.5"
+          />
+        </clipPath>
+      </defs>
+    </svg>
+  </body>
+</html>

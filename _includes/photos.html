@@ -1,0 +1,11 @@
+<div class="my-8 grid grid-cols-2 md:grid-cols-4 gap-4">
+  {% for pictures in include.pictures %}
+  <div class="grid gap-4">
+    {% for p in pictures %}
+      <div>
+        <img class="h-auto max-w-full rounded-base" src="{{ p.src }}" style="{{ p.style }}">
+      </div>
+    {% endfor %}
+  </div>
+  {% endfor %}
+</div>

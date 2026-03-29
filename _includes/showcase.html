@@ -1,0 +1,11 @@
+<div class="showcase my-8 grid grid-cols-2 md:grid-cols-4 gap-4">
+  {% for pictures in include.pictures %}
+  <div class="grid gap-4 content-between">
+    {% for p in pictures %}
+      <div>
+        <img class="h-auto max-w-full rounded-base drop-shadow-md" src="{{ p.src }}" style="{{ p.style }}" alt="{{ p.alt }}">
+      </div>
+    {% endfor %}
+  </div>
+  {% endfor %}
+</div>
