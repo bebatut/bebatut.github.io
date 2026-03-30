@@ -63,6 +63,7 @@ main {
   }
 
   p {
+    line-height: 2;
     margin-bottom: 0.5em;
   }
 
@@ -70,17 +71,19 @@ main {
     margin: 0 1em 0.5em;
 
     li {
-      list-style-type: disc;
+      line-height: 2;
       list-style-position: inside;
+      list-style-type: disc;
     }
   }
 
   strong {
     color: var(--color-primary);
     font-family: "Marck Script", cursive;
-    font-size: 24px;
+    font-size: 1.4em;
     font-style: normal;
     font-weight: 400;
+    line-height: 1;
     padding: 2px;
   }
 
@@ -88,8 +91,13 @@ main {
     background-size: cover;
     clip-path: url(#clip-shape);
     float: right;
-    margin: 0 0 0.5em 0.5em;
-    width: 200px;
+    margin: 0 0 0.2em 0.2em;
+    width: 150px;
+
+    @media (width >= 48rem) {
+      width: 200px;
+      margin: 0 0 0.5em 0.5em;
+    }
   }
 }
 

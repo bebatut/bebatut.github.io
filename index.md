@@ -39,7 +39,9 @@ pictures:
 - Des inspirations voyage, comme les [marchés en Dordogne](https://www.jetcamp.com/fr/blog/marches-en-dordogne/) ou les [plages de Floride](https://www.holidu.com/magazine/top-10-bucket-list-beaches-florida-2021).
 - Des [évènements scientifiques](https://www.flickr.com/photos/bebatut/collections/72157724820474547/), où mon regard humaniste a su capturer l'essentiel.
 
-Devenue mère, mon approche a évolué : je me consacre désormais aux **portraits intimistes**, aux **moments familiaux**, et au **portrait en studio**. Mon objectif ? **Redonner aux femmes, et surtout aux mères, la place qu'elles méritent dans les albums familiaux.** Trop souvent derrière l'objectif, elles disparaissent des souvenirs photographiés. Je veux changer ça, autour de moi, en **capturant des images où elles sont enfin présentes, telles qu'elles sont**.
+Devenue mère, mon approche a évolué : je me consacre désormais aux **portraits intimistes**, aux **moments familiaux**, et au **portrait en studio**.
+
+Mon objectif ? **Redonner aux femmes**, et surtout aux mères, **la place qu'elles méritent dans les albums familiaux.** Trop souvent derrière l'objectif, elles disparaissent des souvenirs photographiés. Je veux changer ça, autour de moi, en capturant des **images où elles sont enfin présentes**, telles qu'elles sont.
 
 ## Travaillons ensemble
 

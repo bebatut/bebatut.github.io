@@ -40,7 +40,9 @@ A [microbiome bioinformatics researcher](https://research.bebatut.fr/) by traini
 - Travel inspiration, like the [markets of Dordogne](https://www.jetcamp.com/fr/blog/marches-en-dordogne/) or the [beaches of Florida](https://www.holidu.com/magazine/top-10-bucket-list-beaches-florida-2021).
 - [Scientific events](https://www.flickr.com/photos/bebatut/collections/72157724820474547/), where my humanistic perspective has captured the essence of the moment.
 
-Since becoming a mother, my focus has shifted: I now specialize in **intimate portraits**, **family moments**, and **studio photography**. My goal? **To give women—and especially mothers—the place they deserve in family albums.** Too often, they are the ones behind the camera, missing from the visual stories of their own lives. I want to change that, in my own way, by **creating images where they are finally present, just as they are**.
+Since becoming a mother, my focus has shifted: I now specialize in **intimate portraits**, **family moments**, and **studio photography**.
+
+My goal? **To give women**, and especially mothers, **the place they deserve in family albums.** Too often, they are the ones behind the camera, missing from the visual stories of their own lives. I want to change that, in my own way, by creating **images where they are finally present**, just as they are.
 
 ## Let's Work Together
 
