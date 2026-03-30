@@ -34,12 +34,12 @@ pictures:
 
 ![](https://research.bebatut.fr/assets/img/profile_pic-800.webp){:.picture-me}
 
-[Chercheuse en bioinformatique microbienne](https://research.bebatut.fr/), je cultive une passion pour la photographie depuis plus de 15 ans. Mes clichés, disponibles sur [Flickr]({{ site.flickr_url }}), ont illustré des sujets variés :
+[Chercheuse en bioinformatique microbienne](https://research.bebatut.fr/), je cultive une **passion pour la photographie** depuis plus de 15 ans. Mes clichés, disponibles sur [Flickr]({{ site.flickr_url }}), ont illustré des sujets variés :
 - Des mouvements sociaux, comme les [manifestations contre les violences faites aux femmes](https://nicepresse.com/nice-nous-toutes-06-appelle-a-la-manifestation-le-27-novembre-contre-les-violences-faites-aux-femmes/).
 - Des inspirations voyage, comme les [marchés en Dordogne](https://www.jetcamp.com/fr/blog/marches-en-dordogne/) ou les [plages de Floride](https://www.holidu.com/magazine/top-10-bucket-list-beaches-florida-2021).
 - Des [évènements scientifiques](https://www.flickr.com/photos/bebatut/collections/72157724820474547/), où mon regard humaniste a su capturer l'essentiel.
 
-Devenue mère, mon approche a évolué : je me consacre désormais aux **portraits intimistes**, aux **moments familiaux**, et au **portrait en studio**.
+Devenue mère, mon approche a évolué : je me consacre désormais aux **portraits intimistes**, aux **moments familiaux**, et aux **portraits en studio**.
 
 Mon objectif ? **Redonner aux femmes**, et surtout aux mères, **la place qu'elles méritent dans les albums familiaux.** Trop souvent derrière l'objectif, elles disparaissent des souvenirs photographiés. Je veux changer ça, autour de moi, en capturant des **images où elles sont enfin présentes**, telles qu'elles sont.
 

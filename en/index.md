@@ -35,7 +35,7 @@ Through my lens, I blend **art and activism** to highlight **women, especially m
 
 <img src="https://research.bebatut.fr/assets/img/profile_pic-800.webp" alt="Bérénice Batut" class="picture-me">
 
-A [microbiome bioinformatics researcher](https://research.bebatut.fr/) by training, I've nurtured a passion for photography for over 15 years. My images, available on [Flickr]({{ site.flickr_url }}), have illustrated a wide range of subjects:
+A [microbiome bioinformatics researcher](https://research.bebatut.fr/) by training, I've nurtured a **passion for photography** for over 15 years. My images, available on [Flickr]({{ site.flickr_url }}), have illustrated a wide range of subjects:
 - Social movements, such as [protests against violence toward women](https://nicepresse.com/nice-nous-toutes-06-appelle-a-la-manifestation-le-27-novembre-contre-les-violences-faites-aux-femmes/).
 - Travel inspiration, like the [markets of Dordogne](https://www.jetcamp.com/fr/blog/marches-en-dordogne/) or the [beaches of Florida](https://www.holidu.com/magazine/top-10-bucket-list-beaches-florida-2021).
 - [Scientific events](https://www.flickr.com/photos/bebatut/collections/72157724820474547/), where my humanistic perspective has captured the essence of the moment.
