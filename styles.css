@@ -47,8 +47,7 @@ nav {
 }
 
 main {
-  & > p,
-  & > h2 {
+  & > *:not(.showcase) {
     @media (width >= 48rem) {
       padding-inline: calc(var(--spacing) * 8);
     }
@@ -61,6 +60,19 @@ main {
     font-style: normal;
     font-weight: 400;
     margin: 1em auto 0.5em;
+  }
+
+  p {
+    margin-bottom: 0.5em;
+  }
+
+  ul {
+    margin: 0 1em 0.5em;
+
+    li {
+      list-style-type: disc;
+      list-style-position: inside;
+    }
   }
 
   strong {
