@@ -1,8 +1,8 @@
-<header class="md:w-2/3 md:mx-auto md:px-8 flex">
-  <h1 class="text-3xl">
+<header class="md:w-2/3 md:mx-auto md:px-8 flex flex-col sm:flex-row">
+  <h1 class="text-3xl text-center">
     <a href="{{ page.url }}">{{ page.title }}</a> <small>{{ page.subtitle }}</small>
   </h1>
-  <div class="content-center">
+  <div class="text-center mt-4 sm:my-auto">
     {% if page.lang == 'fr' %}Français{% else %}<a href="/">Français</a>{% endif %}
     |
     {% if page.lang == 'en' %}English{% else %}<a href="/en/">English</a>{% endif %}
@@ -11,11 +11,13 @@
 
 <nav class="md:w-2/3 md:mx-auto pb-4 text-center">
   {% for entry in page.menus %}
-  <a class="mx-2" href="{{ entry.href }}">{{ entry.text }}</a>
-  &middot;
+  <div class="mx-2 mb-2 sm:mb-0 sm:inline-block">
+    <a href="{{ entry.href }}">{{ entry.text }}</a>
+  </div>
+  <span class="hidden sm:inline-block">&middot;</span>
   {% endfor %}
-  <span class="mx-2">
+  <div class="mx-2 sm:inline-block">
     {% include flickr.svg %}
     <a href="https://www.flickr.com/people/bebatut/">Flickr</a>
-  </span>
+  </div>
 </nav>
